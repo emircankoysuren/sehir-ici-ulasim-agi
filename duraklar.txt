@@ -1,0 +1,5 @@
+D1,Mamak Balkiraz
+D2,Dikimevi
+D3,Kizilay
+D4,Sihhiye
+D5,Ulus

@@ -1,0 +1,5 @@
+D1,D2,12,Otobus_220
+D2,D3,6,Ankaray
+D2,D3,15,Otobus_297
+D3,D4,3,Metro_M1
+D4,D5,4,Metro_M1
